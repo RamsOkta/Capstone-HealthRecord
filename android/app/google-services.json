@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621467609416",
+    "project_id": "healthrecord-ad04f",
+    "storage_bucket": "healthrecord-ad04f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621467609416:android:7df49ba42dbcd27f0eab7d",
+        "android_client_info": {
+          "package_name": "com.example.healthrecord"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHd7lZpfaaOwIAfKee9lMN08qfwuVxgVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
